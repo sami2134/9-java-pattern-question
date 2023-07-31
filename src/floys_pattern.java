@@ -1,4 +1,4 @@
-floyd pattern :
+/*floyd pattern :
     1
     2 3
     4 5 6
@@ -7,7 +7,7 @@ floyd pattern :
 
     to print this pattern we used following pattern
 
-code-
+code-*/
 
 public class floys_pattern {
     public static void main(String args[]) {
