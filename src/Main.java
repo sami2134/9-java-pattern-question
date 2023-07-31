@@ -1,10 +1,10 @@
-simple box * pattern :
+/*simple box * pattern :
 * * * * *     
 * * * * *
 * * * * *
 * * * * *
 
-    to print this pattern following is the code--
+    to print this pattern following is the code--*/
 
 public class Main {
     public static void main(String[] args) {
