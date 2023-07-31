@@ -1,3 +1,10 @@
+/* hallow pattern-
+    * * * * *
+    *     * 
+    *     * 
+    * * * *
+    to print this pattern following is the code--- */
+
 public class hallowpattern {
 
     public static void main(String args[]){
