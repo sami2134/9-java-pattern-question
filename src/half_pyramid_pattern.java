@@ -1,3 +1,10 @@
+/* half pyramid pattern-
+*
+* *
+* * *
+* * * *
+    to print this pattern following is the code--*/
+
 public class half_pyramid_pattern {
     public static void main(String args[]){
         int n=4;
