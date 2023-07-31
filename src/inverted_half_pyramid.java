@@ -1,3 +1,12 @@
+/* Inverted Half pyramid-
+      *
+    * *  
+  * * *
+* * * *
+
+    to print this pattern following is the code--*/
+
+
 public class inverted_half_pyramid {
     public static void main(String args[]){
         int n=5;
